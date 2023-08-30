@@ -17,7 +17,7 @@ public partial class SanPham
 
     public string? MoTa { get; set; }
 
-    public virtual ICollection<HoaDonDatHang> HoaDonDatHangs { get; set; } = new List<HoaDonDatHang>();
+    public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; } = new List<ChiTietDonHang>();
 
     public virtual LoaiSp? MaLoaiNavigation { get; set; }
 

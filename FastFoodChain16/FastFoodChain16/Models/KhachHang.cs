@@ -19,5 +19,8 @@ public partial class KhachHang
 
     public virtual ICollection<DonHang> DonHangs { get; set; } = new List<DonHang>();
 
-    public virtual ICollection<TaiKhoan> TaiKhoans { get; set; } = new List<TaiKhoan>();
+    internal static IEnumerable<DonHang> Select(Func<object, object> value)
+    {
+        throw new NotImplementedException();
+    }
 }

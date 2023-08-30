@@ -19,11 +19,7 @@ public partial class DonHang
 
     public string? DiaChiNhan { get; set; }
 
-    public string? TrangThai { get; set; }
-
-    public decimal? TongTien { get; set; }
-
-    public virtual ICollection<HoaDonDatHang> HoaDonDatHangs { get; set; } = new List<HoaDonDatHang>();
+    public virtual ICollection<ChiTietDonHang> ChiTietDonHangs { get; set; } = new List<ChiTietDonHang>();
 
     public virtual KhachHang? MaKhNavigation { get; set; }
 
