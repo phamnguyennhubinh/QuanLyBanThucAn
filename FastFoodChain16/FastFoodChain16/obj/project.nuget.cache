@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dpEkaWcvtqcJGdwA5K1+FBhCqa202BmFLHQjvhSTjTd8ZQdpjRL46kAAkCDVU93aqK2ZEysfVVD0w2qJHVYKEQ==",
+  "dgSpecHash": "T6j6IEATN/iXx64Kz+hyhL4NRm9p26aU9r1DqBbQhtRFzboQgN5rQbGuui/OU6gXqb6Nv/tsbVNBKfobaSfoFQ==",
   "success": true,
-  "projectFilePath": "C:\\QLBanThucAnNhanh\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj",
+  "projectFilePath": "C:\\QLBanThucAnNhanh\\QuanLyBanThucAn\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhubinh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\nhubinh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

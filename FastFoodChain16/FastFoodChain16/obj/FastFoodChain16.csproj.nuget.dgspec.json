@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\QLBanThucAnNhanh\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj": {}
+    "C:\\QLBanThucAnNhanh\\QuanLyBanThucAn\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj": {}
   },
   "projects": {
-    "C:\\QLBanThucAnNhanh\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj": {
+    "C:\\QLBanThucAnNhanh\\QuanLyBanThucAn\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\QLBanThucAnNhanh\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj",
+        "projectUniqueName": "C:\\QLBanThucAnNhanh\\QuanLyBanThucAn\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj",
         "projectName": "FastFoodChain16",
-        "projectPath": "C:\\QLBanThucAnNhanh\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj",
+        "projectPath": "C:\\QLBanThucAnNhanh\\QuanLyBanThucAn\\FastFoodChain16\\FastFoodChain16\\FastFoodChain16.csproj",
         "packagesPath": "C:\\Users\\nhubinh\\.nuget\\packages\\",
-        "outputPath": "C:\\QLBanThucAnNhanh\\FastFoodChain16\\FastFoodChain16\\obj\\",
+        "outputPath": "C:\\QLBanThucAnNhanh\\QuanLyBanThucAn\\FastFoodChain16\\FastFoodChain16\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhubinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
